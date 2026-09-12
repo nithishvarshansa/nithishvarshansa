@@ -37,47 +37,64 @@ BB%88&W&88%BBBBB$$$%*qQUUUUUUUYzccuYd8$@B&M&8&&88&&&&&8%BB%8
 
 
 
-# Hi, I'm Nithish varshan SA 👋
+# Hi, I'm Nithish Varshan SA 👋
 
-### B.Tech IT Student | AI/ML Developer | Software Builder
+### B.Tech IT Student | AI/ML Enthusiast | Python | Agentic AI
 
 I build practical AI, machine learning, and software projects focused on solving real-world problems.
 
 ## 🚀 What I'm Working On
 
-- 🤖 Machine Learning & Artificial Intelligence
-- 🧠 Agentic AI & Multi-Agent Systems
-- 💻 Full-Stack & Backend Development
-- 📊 Data Science & Data Analysis
+- 🤖 AI/ML & Large Language Models
+- 🧠 Agentic AI & AI Agents
+- 🔗 Multi-Agent AI Systems
+- 💻 AI-Powered Software Development
 - ⚙️ AI Automation & Intelligent Applications
 
 ## 🛠️ Skills
 
 ### Programming
-Python • C 
+Python • C
 
-### AI / Machine Learning
-NumPy • Pandas • Scikit-learn • TensorFlow
+### AI / ML
+LLMs • AI Agents • Prompt Engineering
 
-### Development
-FastAPI • React • Vite • REST APIs
+### Frameworks
+FastAPI • React • Android
 
-### Tools & Platforms
-Git • GitHub • VS Code • Docker • Firebase
+### AI Tools
+OpenRouter • Ollama • Tavily • Hugging Face • n8n
+
+### Development Tools
+Claude Code • Anthropic API / Claude API • MCP • LangChain • Docker
+
+### Tools & Databases
+Git • GitHub • VS Code • MongoDB
 
 ## ⭐ Featured Projects
 
-### 🤖 AOS — Multi-Agent AI Operating System
-AI system that coordinates specialized agents to plan and execute complex tasks.
+### 🤖 AI Operating System (AOS)
+Multi-agent AI system that decomposes complex user requests into executable tasks and intelligently orchestrates specialized Research, Browser, Coding, File, Memory, and Planner agents.
 
 ### 🚀 RazorGrowth Agent
-AI-powered growth and automation system.
+AI-powered merchant growth agent built for the Razorpay AI Buildathon 2026. Analyzes transaction signals to identify revenue opportunities, applies safety guardrails, and executes merchant-approved actions through Razorpay Test Mode.
 
 ### 💼 AI Job Agent
-Automated job discovery system for finding relevant AI, ML and technology opportunities.
+Telegram bot that automatically searches and delivers relevant AI/ML and software job opportunities based on user queries.
 
-### 📡 OLI
-Offline communication application designed for messaging without traditional internet connectivity.
+### 📡 OLI — Offline Emergency Communication App
+Android application enabling offline peer-to-peer messaging between nearby devices using Bluetooth/Nearby Connections.
+
+## 📜 Certifications
+
+- Agentic AI Foundations Associate — Oracle | 2026
+- Deep Learning — IBM | 2026
+- Deep Learning with TensorFlow — IBM Skills Network | 2026
+- Machine Learning Basics — IBM Skills Network | 2026
+- Accelerating Deep Learning with GPUs — IBM | 2026
+- Claude Code 101 — Anthropic | 2026
+- Claude Platform 101 — Anthropic | 2026
+- Claude 101 — Anthropic | 2026
 
 ## 📚 Currently Learning
 
@@ -85,7 +102,7 @@ Machine Learning → Deep Learning → Generative AI → Agentic AI
 
 ## 🎯 My Goal
 
-To build practical AI-powered software that solves real-world problems and creates useful technology.
+To deepen my expertise in advanced AI/ML technologies and build practical AI-powered software that solves real-world problems.
 
 ---
 
